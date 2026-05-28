@@ -1,7 +1,7 @@
 [
   {
     "flag": "AF",
-    "img": "bendera/afganistan.jpg",
+    "img": "https://raw.githubusercontent.com/ikykuun/fiturbot/main/bendera/afganistan.jpg",
     "name": "Afganistan"
   }
 ]
